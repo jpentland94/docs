@@ -1945,7 +1945,7 @@ The base control panel URL should **not** include the [control panel trigger wor
 
 ::: code
 ```php Static Config
-->baseCpUrl('<https://cms.my-project.tld/')>
+->baseCpUrl('<https://cms.my-project.tld/>')
 ```
 ```shell Environment Override
 CRAFT_BASE_CP_URL=https://cms.my-project.tld/
